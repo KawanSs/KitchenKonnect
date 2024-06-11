@@ -10,4 +10,4 @@ Abaixo segue o link do vídeo de apresentação
 https://drive.google.com/file/d/15o-vsh4SKX-8ECn8ZW0bNZJKsNDardNj/view?usp=sharing
 
 Para a análise desse projeto - na leitura do arquivo KitchenKonnect.py - será necessária a instalação do framework Flet através do comando:
-'pip install Flet'
+`pip install Flet`
