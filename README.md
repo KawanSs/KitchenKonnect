@@ -11,4 +11,5 @@ https://drive.google.com/file/d/15o-vsh4SKX-8ECn8ZW0bNZJKsNDardNj/view?usp=shari
 
 Para a análise desse projeto - na leitura do arquivo KitchenKonnect.py - será necessária a instalação do Python e do framework Flet através do comando:
 `pip install Flet`
+
 O Banco de Dados utilizado - na leitura do arquivo KK_mysql_food.sql - está relacionado ao arquivo principal de código.
